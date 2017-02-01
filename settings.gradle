@@ -1,4 +1,2 @@
 rootProject.name = 'utily-raptor'
-include 'test-utilities'
-include 'core'
 
